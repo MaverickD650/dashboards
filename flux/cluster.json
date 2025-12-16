@@ -87,7 +87,7 @@
         "textMode": "value",
         "wideLayout": true
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -154,7 +154,7 @@
         "textMode": "value",
         "wideLayout": true
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -225,7 +225,7 @@
         "textMode": "value",
         "wideLayout": true
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -292,7 +292,7 @@
         "textMode": "value",
         "wideLayout": true
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0" ,
       "targets": [
         {
           "datasource": {
@@ -366,7 +366,7 @@
         "text": {},
         "valueMode": "color"
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -439,7 +439,7 @@
         "text": {},
         "valueMode": "color"
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -558,7 +558,7 @@
           }
         ]
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -756,7 +756,7 @@
           }
         ]
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -919,7 +919,7 @@
           }
         ]
       },
-      "pluginVersion": "10.2.2",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "datasource": {
@@ -1143,7 +1143,7 @@
           "sort": "none"
         }
       },
-      "pluginVersion": "10.0.3",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "exemplar": true,
@@ -1281,7 +1281,7 @@
           "sort": "none"
         }
       },
-      "pluginVersion": "10.0.3",
+      "pluginVersion": "12.3.0",
       "targets": [
         {
           "exemplar": true,
